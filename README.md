@@ -40,11 +40,11 @@ A clean and modern e-commerce website UI template built using **Tailwind CSS**. 
 - HTML5
 - (Optional) Alpine.js for interactivity
 
-## 📄 License
+## 📝 License
 
-This project is free to use for personal and educational purposes. For commercial use, please give credit.
+This project is licensed under the **MIT License**.
+
 
 ---
 
-Feel free to fork, customize, and use this design for your own projects. If you find it useful, a ⭐️ on TailwindFlex is appreciated!
-
+Let me know if you'd like a separate `LICENSE` file too!
